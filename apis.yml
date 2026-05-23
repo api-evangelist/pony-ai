@@ -1,0 +1,72 @@
+aid: pony-ai
+name: Pony.ai
+description: >-
+  Pony.ai is a global autonomous-mobility company founded in Silicon Valley in
+  2016 and dual-headquartered in Guangzhou and Fremont. Its core technology is
+  the Pony "virtual driver", a Level 4 autonomous driving stack deployed across
+  three business lines: Robotaxi (PonyPilot+ ride-hailing service operating in
+  Beijing, Shanghai, Guangzhou, and Shenzhen, plus pilots in California and
+  Arizona), Robotruck (autonomous heavy-duty trucking in China), and Personally
+  Owned Vehicle (POV) intelligent driving software for production passenger
+  cars. The company is publicly listed on NASDAQ under PONY and reports more
+  than 32 million kilometres of autonomous road testing. Pony.ai does not
+  publish a traditional public developer API; its public GitHub presence
+  includes infrastructure tooling such as pony_aim (experiment tracker) and
+  bazel-buildfarm rather than the AV stack itself. This profile captures the
+  company surface and any developer-relevant artifacts.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Autonomous Vehicles
+  - Robotaxi
+  - Autonomous Trucking
+  - Self-Driving
+  - China
+  - PonyPilot
+  - NASDAQ
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/pony-ai/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://pony.ai
+  - type: AboutUs
+    url: https://pony.ai/about
+  - type: Newsroom
+    url: https://pony.ai/press
+  - type: Blog
+    url: https://pony.ai/blog
+  - type: Technology
+    url: https://pony.ai/tech
+  - type: Safety
+    url: https://pony.ai/safety
+  - type: SafetyReport
+    url: https://pony.ai/safety-report
+  - type: Robotaxi
+    url: https://pony.ai/robotaxi
+  - type: Robotruck
+    url: https://pony.ai/robotruck
+  - type: Careers
+    url: https://pony.ai/careers
+  - type: InvestorRelations
+    url: https://ir.pony.ai
+  - type: GitHubOrganization
+    url: https://github.com/PonyAI
+  - type: Contact
+    url: mailto:contacts@pony.ai
+  - type: PressContact
+    url: mailto:media@pony.ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pony-ai
+  - type: Twitter
+    url: https://twitter.com/pony_ai_inc
+  - type: YouTube
+    url: https://www.youtube.com/@Pony_ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
