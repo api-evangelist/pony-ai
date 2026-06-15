@@ -2,6 +2,10 @@
   "repo": "pony-ai",
   "feeds": [
     {
+      "source": "https://pony.ai/blog",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://pony.ai/press",
       "feed_url": "https://pony.ai/press",
       "title": "",
@@ -10,5 +14,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-01T23:35:02Z"
+  "fetched": "2026-06-14T20:42:17Z"
 }
