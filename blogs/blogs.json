@@ -2,17 +2,13 @@
   "repo": "pony-ai",
   "feeds": [
     {
-      "source": "https://pony.ai/blog",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://pony.ai/press",
-      "feed_url": "https://pony.ai/press",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "feed_url": "",
+      "saved": 1,
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 1,
+  "fetched": "2026-06-27T13:03:12Z",
+  "agent_pulled": "2026-06-27"
 }
