@@ -1,4 +1,4 @@
-# pony-ai
+# Pony.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pony.ai — autonomous driving + Robotaxi in China and US
+Pony.ai is a global autonomous-mobility company founded in Silicon Valley in 2016 and dual-headquartered in Guangzhou and Fremont. Its core technology is the Pony "virtual driver", a Level 4 autonomous driving stack deployed across three business lines: Robotaxi (PonyPilot+ ride-hailing service operating in Beijing, Shanghai, Guangzhou, and Shenzhen, plus pilots in California and Arizona), Robotruck (autonomous heavy-duty trucking in China), and Personally Owned Vehicle (POV) intelligent driving software for production passenger cars. The company is publicly listed on NASDAQ under PONY and reports more than 32 million kilometres of autonomous road testing. Pony.ai does not publish a traditional public developer API; its public GitHub presence includes infrastructure tooling such as pony_aim (experiment tracker) and bazel-buildfarm rather than the AV stack itself. This profile captures the company surface and any developer-relevant artifacts.
+
+**Areas:** Autonomous Vehicles · Robotaxi · Autonomous Trucking · Self-Driving · China · PonyPilot · NASDAQ
+
+## Pony.ai on APIs.io
+
+Everything profiled for Pony.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pony-ai/](https://apis.io/providers/pony-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pony Ai Domain Security](https://apis.io/security/pony-ai/pony-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pony.ai)
+- [Blog](https://pony.ai/blog)
+- [GitHub](https://github.com/PonyAI)
+
+## API Evangelist rating
+
+**Kin Score 3.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pony-ai/](https://apis.io/providers/pony-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pony.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pony-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
